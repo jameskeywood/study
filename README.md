@@ -6,7 +6,7 @@ Execute the makefile to compile the program.
 ```
 make
 ```
-To track study minuts, execute:
+To track study minutes, execute:
 ```
 ./study start <description>
 ```
