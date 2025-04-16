@@ -25,7 +25,7 @@ then
           echo "Saved: $s_date,$s_mins";
 		  exit' SIGINT
 
-	sox -n -d synth -1 brownnoise vol 0.02 &> /dev/null
+	sox -n -d synth -1 brownnoise vol 0.01 &> /dev/null
 elif [ $1 == "view" ]
 then
 	gnuplot -e 'set datafile separator ",";
