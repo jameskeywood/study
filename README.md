@@ -17,3 +17,4 @@ Or to view your recent studies:
 
 ## Sources
 - Handling dates in C: https://stackoverflow.com/questions/77607059/how-can-i-make-a-function-which-calculates-the-weekday-of-a-specific-date-in-c
+- Using SDL2 + SDL2_ttf with NixOS: https://discourse.nixos.org/t/linking-error-in-a-project-using-sdl2/34554
